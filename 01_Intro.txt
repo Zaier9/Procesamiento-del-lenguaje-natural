@@ -1,0 +1,11 @@
+¿Por qué es tan importante el procesamiento de lenguaje natural?
+
+    Por que creemos que es el autentico camino de lo que creemos que es el ideal de lo que nosotros consideramos inteligencia artificial?
+
+¿Qué significa y de que se encarga el NLP?
+
+    Significa Natural Language Processing y este es un área que combina ciencias de la computación, lingüística, IA para entender como se pueden ejecutar interacciones entre humanos y maquinas por medio le lenguaje natural.
+
+¿Qué significa y de que se encarga el NLU?
+
+    Significa Natural Language Understanding y esta es una sub área del NLP se encarga de tareas especificas que las maquinas puedan ejecutar en el proceso de comunicación de los seres humanos de manera que esas tarea reflejen que el robot no solo puede procesar nuestro lenguaje, si no entenderlo y las respuestas que nos dé, deben de reflejar que verdaderamente lo entiende.
