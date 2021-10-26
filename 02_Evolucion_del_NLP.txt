@@ -1,0 +1,15 @@
+Evolución del NLP
+La evolución en general:
+
+    * 1950-1990: Sistemas basados en reglas. Se ponían las reglas del lenguaje de manera explícita.
+    * 1990-2000: Estadística de Corpus. Distribución de probabilidad de las palabras 🤔
+    * 2000-2014: Machine learning.
+    * 2014-2020: Deep learning. Al inicio del uso de GPUs comenzó con más fuerza. 
+
+El de bajo nivel es bueno para una sola (o pocas) tareas. La otra aproximación, con deep learning, es bueno realizando varias tareas. 👀 De esta, una ejemplo son las redes secuenciales, donde se observa el texto antes y después de una palabra. Para decidir que palabras observar para el contexto, se usar mecanismos de atención (con transformers).
+
+Aún hay mucho camino por recorrer, estamos lejos de lograr NLP perfecto 😵.
+
+https://www.technologyreview.com/2020/01/31/304844/ai-common-sense-reads-human-language-ai2/
+
+En este curso, vamos a estudiar dos librerías muy importantes: NLTK (primeras dos áreas) y SpaCy (áreas dos y tres). 😢
