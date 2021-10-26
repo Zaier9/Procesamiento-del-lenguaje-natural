@@ -9,3 +9,20 @@
 ¿Qué significa y de que se encarga el NLU?
 
     Significa Natural Language Understanding y esta es una sub área del NLP se encarga de tareas especificas que las maquinas puedan ejecutar en el proceso de comunicación de los seres humanos de manera que esas tarea reflejen que el robot no solo puede procesar nuestro lenguaje, si no entenderlo y las respuestas que nos dé, deben de reflejar que verdaderamente lo entiende.
+
+Usos actuales del NLP:
+
+    * Máquinas de búsqueda o motores de búsqueda.
+    * Traductores de texto.
+    * Chatbots.
+    * Análisis de discurso.
+    * Reconociendo del habla.
+
+¿Por qué es tan difícil el NLP?
+
+    * El problema mas grande son las ambigüedades.
+    * Es difuso.
+
+Requiere de mucho contexto.
+    
+    Cuando se vive en México hay una cantidad exagerada de ambigüedades, por ejemplo, ¿que rayos significa pedo o wey? La realidad es que nadie lo sabe con certeza, en realidad depende del contexto el significado de esas 2 palabras.
